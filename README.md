@@ -2,6 +2,8 @@
 A promise-based WebSocket implementation
 
 ```javascript
+import {Socket} from '...';
+
 const socket = new Socket('ws://localhost');
 await socket.connect();
 

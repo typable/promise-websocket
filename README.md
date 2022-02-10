@@ -1,5 +1,5 @@
-# promise-websocket
-A promise-based Websocket
+# socket
+A promise-based WebSocket implementation
 
 ```javascript
 const socket = new Socket('ws://localhost');
